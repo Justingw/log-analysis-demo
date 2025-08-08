@@ -1,0 +1,24 @@
+# Environment variables - keep private!
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# MacOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Studio directory (old config)
+studio/

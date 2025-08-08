@@ -4,3 +4,7 @@ langchain-community
 langchain-openai
 tavily-python
 wikipedia
+google-cloud-logging
+pygithub
+slack-sdk
+python-dotenv
